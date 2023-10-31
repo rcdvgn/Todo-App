@@ -6,7 +6,7 @@
 
 This was the first React app I made. 
 
-It took me around 3 days in total to design and build, and it covers [fundamental React concepts](https://reactnative.dev/docs/intro-react) such as:
+The whole project took me around 3 days in total to design and build, and it covers [fundamental React concepts](https://reactnative.dev/docs/intro-react) such as:
 - Function components.
 - State management.
 - DOM manipulation.
