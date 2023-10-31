@@ -18,7 +18,6 @@ function AllNodes({ nodes, filterStatus, deleteNode, changeNodeStatus, renameNod
                 deleteNode={deleteNode}
                 changeNodeStatus={changeNodeStatus}
                 renameNode={renameNode}
-                // deleteNode={deleteNode}
               />
             )
         )}
